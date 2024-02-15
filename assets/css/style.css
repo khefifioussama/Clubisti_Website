@@ -72,6 +72,7 @@
     background-size: cover;  
    
 }
+
 /* navbar */
 #navbar-color{
     background-color: rgba(238,224,208);
@@ -188,6 +189,8 @@ transition: all 0.3s ease;
     content: '\2192'; 
     margin-left: 5px; 
   }
+
+/* tickets card */
   
   
 /* card1 */
