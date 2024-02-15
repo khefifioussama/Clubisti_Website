@@ -54,8 +54,8 @@
 }
 
 @keyframes slideshow {
-    0% { background-image: url(../image/ccc.jpg); }
-    100% { background-image: url(../image/DERBI.webp); }
+   100% { background-image: url(../image/ccc.jpg); }
+    0% { background-image: url(../image/DERBI.webp); }
 }
 .boutique-main-content {
     position: relative;
@@ -253,6 +253,18 @@ transition: all 0.3s ease;
 #btn4 button:hover{
     background-color: rgba(238,224,208);
 }
+
+.About-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+.bd-placeholder-img.card-img-top{
+    width:100%;
+    height:225px;
+}
+
+
 /* footer */
 #footer{
     width: 100%;
